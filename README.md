@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> No hay luz que brille más que tú en todo Madrid
+> Esta noche es nuestra, baby, dímelo a mí
+> En un viaje de terciopelo, let's fly away
+> Tú eres mi luna en lo oscuro, my only way
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
